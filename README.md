@@ -14,7 +14,7 @@
  
  :  Gmail : **vatshayan007@gmail.com**
 
- <h3 align="left">Support:</h3>
+ <h3 align="left">Support Us:</h3>
 
 1. 
 <a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
@@ -35,3 +35,16 @@
 
 
 ### Your Support will Motivate us to give many free Material, knowledge, Skills training and Internship to Students
+
+
+**We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
+
+
+### Target:
+
+5 Top Class Projects : 15 Oct 2021
+
+Data Science Course  : 15 Nov 2021
+
+Internship           : 30 OCT 2021
+
