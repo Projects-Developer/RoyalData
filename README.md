@@ -37,6 +37,9 @@
 ### Your Support will Motivate us to give many free Material, knowledge, Skills training and Internship to Students
 
 
+We are Non Profit Startup, We need your Support  for to Run Educational Websites, Pay Freelancers and Interns.
+
+
 **We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
 
 
