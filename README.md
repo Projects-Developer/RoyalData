@@ -43,11 +43,3 @@ We are Non Profit Startup, We need your Support  for to Run Educational Websites
 **We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
 
 
-### Target:
-
-5 Top Class Projects : 15 Oct 2021
-
-Data Science Course  : 15 Nov 2021
-
-Internship           : 30 OCT 2021
-
