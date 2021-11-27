@@ -14,6 +14,8 @@
  
  :  Gmail : **vatshayan007@gmail.com**
 
+### Student Got helped till today : ![Visitor Count](https://profile-counter.glitch.me/{RoyalData}/count.svg)
+
  <h3 align="left">Support Us:</h3>
 
 1. 
